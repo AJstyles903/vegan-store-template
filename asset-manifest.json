@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AJstyles903/vegan-store-template/static/css/main.7659f959.css",
+    "main.js": "/AJstyles903/vegan-store-template/static/js/main.55d07df8.js",
+    "static/media/landing-background.png": "/AJstyles903/vegan-store-template/static/media/landing-background.4002f16bedf673cf4f4c.png",
+    "static/media/strowberry.jpg": "/AJstyles903/vegan-store-template/static/media/strowberry.c49507faa02fa98612b7.jpg",
+    "static/media/Caveat-Regular.ttf": "/AJstyles903/vegan-store-template/static/media/Caveat-Regular.1f129497cd349562c266.ttf",
+    "static/media/strawberry-white.png": "/AJstyles903/vegan-store-template/static/media/strawberry-white.b6af2514c5a27dd803c9.png",
+    "static/media/face5.jpg": "/AJstyles903/vegan-store-template/static/media/face5.baaf940bf1c9d5406936.jpg",
+    "static/media/face7.jpg": "/AJstyles903/vegan-store-template/static/media/face7.96b0cbad53b6e08623f4.jpg",
+    "static/media/face6.jpg": "/AJstyles903/vegan-store-template/static/media/face6.a4cb2d72112f0fe19d1f.jpg",
+    "index.html": "/AJstyles903/vegan-store-template/index.html",
+    "main.7659f959.css.map": "/AJstyles903/vegan-store-template/static/css/main.7659f959.css.map",
+    "main.55d07df8.js.map": "/AJstyles903/vegan-store-template/static/js/main.55d07df8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7659f959.css",
+    "static/js/main.55d07df8.js"
+  ]
+}
